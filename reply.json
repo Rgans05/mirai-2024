@@ -1,0 +1,6 @@
+{
+  "admin": "Hanya admin yang bisa menggunakan perintah ini.",
+  "owner": "Hanya owner yang bisa menggunakan perintah ini.",
+  "group": "Perintah ini hanya bisa digunakan di grup.",
+  "notRecognized": "Perintah tidak dikenali. Gunakan format yang benar."
+}
